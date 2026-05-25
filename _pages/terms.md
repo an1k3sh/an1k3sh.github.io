@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2026-01-26
 ---
 
 {% include base_path %}
@@ -11,7 +11,35 @@ modified: 2016-06-06
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+**I do not collect, store, or track any personal information from visitors.** This site does not use cookies, analytics, or advertising.
+
+### Server Logs
+
+This site is hosted on GitHub Pages. Like most web servers, GitHub may collect standard server logs that include:
+
+* Internet Protocol addresses (IP)
+* Types of browser
+* Internet Service Provider (ISP)
+* Date and time stamps
+* Referring pages
+* Requested pages
+
+This information is not personally identifiable and is used only to maintain server operations. For more information about GitHub's privacy practices, please visit [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+### No Tracking
+
+This website:
+- ✓ Does not use Google Analytics or any analytics tools
+- ✓ Does not use cookies
+- ✓ Does not use third-party advertisements
+- ✓ Does not collect email addresses or personal data
+- ✓ Does not store form submissions
+
+### Contact
+
+If you have any questions about this privacy policy, please contact me at [{{ site.author.email }}](mailto:{{ site.author.email }}).
+
+<!-- First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
 ### Log Files
 
@@ -36,4 +64,4 @@ If you wish to disable cookies, you may do so through your web browser options. 
 
 #### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html). -->

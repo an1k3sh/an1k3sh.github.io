@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+
+<!-- CV Document
+====== -->
+
+[Download CV (PDF)]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
+
+<iframe src="{{ base_path }}/files/cv.pdf" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+
+<!-- Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Roorkee, 2025
 
 Work experience
 ======
@@ -36,10 +44,6 @@ Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -55,10 +59,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+  {% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}
+  <li>DAC-101 : Programming in C++ (Teaching Assistant), IIT Roorkee</li>
+  </ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
